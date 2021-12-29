@@ -1,1 +1,1 @@
-# about-me-page
+This project is a test to ensure skills in HTML and gain some muscle memory out of it.
